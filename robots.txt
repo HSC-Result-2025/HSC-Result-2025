@@ -1,0 +1,12 @@
+# robots.txt for GitHub Pages HSC Result 2025
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hsc-result-2025.github.io/HSC-Result-2025/sitemap.xml
+
+# Disallow sensitive directories (if any)
+Disallow: /private/
+Disallow: /tmp/

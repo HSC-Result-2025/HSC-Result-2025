@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- GitHub Pages landing -->
+  <url>
+    <loc>https://hsc-result-2025.github.io/HSC-Result-2025/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main site article for canonical -->
+  <url>
+    <loc>https://noticepointbd.my-board.org/hsc-result-2025/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
